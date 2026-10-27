@@ -1,0 +1,29 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Testes e cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ambientes de desenvolvimento
+.vscode/
+.idea/
+
+# Variáveis de ambiente e credenciais
+.env
+.env.*
+
+# Dados e resultados locais
+data/
+datasets/
+output/
+outputs/
+Dataset_Bracol_Limpo/
